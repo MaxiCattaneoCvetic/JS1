@@ -26,7 +26,7 @@ let saludar2 = function(){
 }
 
 // tipo flecha
-let saludar3 = () => {
+let saludar3 = ()  => {
 
 }
 
