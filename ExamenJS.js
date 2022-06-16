@@ -212,5 +212,11 @@ let alumno = {
 console.log (alumno.presentarme()) // >> usamos la funcion del objeto
 console.log(alumno.apellido) // >> Mostramos el apellido del objeto
 
+//PARA AGREGAR PROPIEDADES EN UN OBJETO USAMOS 
+alumno.nombre = "Juan" // LE CAMBIAMOS EL NOMBRE AL OBJETO
+alumno.promedio = 7 //  DE LA MISMA MANERA LE PODEMOS AGREGAR UNA PROPIEDAD AL OBJETO. 
+
+console.log(alumno)
+
 
 
